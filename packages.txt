@@ -1,3 +1,5 @@
+# Packages found in Chocolately repo https://chocolatey.org/packages
+
 # Work
 office365proplus
 
