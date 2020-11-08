@@ -19,6 +19,7 @@ vscode
 dropbox
 cpu-z
 gpu-z
+hwmonitor
 7zip
 notepadplusplus
 
