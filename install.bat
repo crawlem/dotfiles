@@ -1,0 +1,1 @@
+for /F "eol=#" %%G in (packages.txt) do choco upgrade %%G -fy

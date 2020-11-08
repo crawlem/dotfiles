@@ -1,0 +1,28 @@
+# Work
+office365proplus
+
+# Gaming
+steam
+uplay
+battle.net
+goggalaxy
+origin
+discord
+
+# Dev
+vscode
+
+# Utils
+1password
+dropbox
+cpu-z
+gpu-z
+7zip
+notepadplusplus
+
+# Media
+itunes
+handbrake
+makemkv
+vlc
+plexmediaserver
