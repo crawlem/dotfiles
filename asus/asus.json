@@ -1,0 +1,2181 @@
+{
+	"Result": {
+        "__comment": "https://www.asus.com/support/api/product.asmx/GetPDDrivers?cpu=&osid=45&website=en&pdhashedid=J5gI4IJdkmAgKEpd&model=ROG%20STRIX%20Z370-I%20GAMING",
+		"Count": 115,
+		"Obj": [
+			{
+				"Name": "VGA Drivers",
+				"Count": 6,
+				"Files": [
+					{
+						"Id": "1@50@11@12@45@1@DRV_VGA_Intel_19H1_TSD_SZ_W10_64_VER26201006952_20190722R.zip",
+						"Version": "26.20.100.6952",
+						"Title": "Intel Graphics Accelerator Driver",
+						"Description": "Install Intel Graphics Accelerator Driver.",
+						"FileSize": "367.29 MBytes",
+						"ReleaseDate": "2019/07/22",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/07VGA/DRV_VGA_Intel_19H1_TSD_SZ_W10_64_VER26201006952_20190722R.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@1@DRV_VGA_Intel_CFL_RS5_SZ_W10_64_VER25201006471_20190401R.zip",
+						"Version": "25.20.100.6471",
+						"Title": "Intel Graphics Accelerator Driver",
+						"Description": "300 series platform <br/>RS5 WHQL.",
+						"FileSize": "340.19 MBytes",
+						"ReleaseDate": "2019/04/04",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/07VGA/DRV_VGA_Intel_CFL_RS5_SZ_W10_64_VER25201006471_20190401R.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@1@IntelVGA_24.20.100.6169DC_RS4PV_20180702.zip",
+						"Version": "24.20.100.6169",
+						"Title": "Intel Graphics Accelerator Driver",
+						"Description": "Improve system stability & Support Windows 10 latest version.<br/>NOTICE:<br/>Due to the different structure for drivers, suggest you remove the old driver first before install this version driver.",
+						"FileSize": "363.11 MBytes",
+						"ReleaseDate": "2018/07/25",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/07VGA/IntelVGA_24.20.100.6169DC_RS4PV_20180702.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@1@Intel_Graphics_Accelerator_Driver_win10-64_V23.20.16.4944.zip",
+						"Version": "23.20.16.4944",
+						"Title": "Intel(R) Graphics Accelerator Driver",
+						"Description": "Intel(R) Graphics Accelerator Driver V23.20.16.4944 for Windows 10 64-bit.(WHQL)",
+						"FileSize": "330.63 MBytes",
+						"ReleaseDate": "2018/03/21",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/Utility/Intel_Graphics_Accelerator_Driver_win10-64_V23.20.16.4944.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@1@VGA_RS3_4849_20171221.zip",
+						"Version": "23.20.16.4849",
+						"Title": "Intel Graphics Accelerator Driver",
+						"Description": "Improve system stability & Support Windows 10 latest version (Build 16299)",
+						"FileSize": "307.62 MBytes",
+						"ReleaseDate": "2017/12/28",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/07VGA/VGA_RS3_4849_20171221.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@1@Intel_VGA_Driver_Win10_V2220164758_20170830_872.zip",
+						"Version": "22.20.16.4758",
+						"Title": "Intel Graphics Accelerator Driver",
+						"Description": "Intel Graphics Accelerator Driver V22.20.16.4758 for Windows 10 64-bit---(WHQL).",
+						"FileSize": "279.91 MBytes",
+						"ReleaseDate": "2017/08/30",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/07VGA/Intel_VGA_Driver_Win10_V2220164758_20170830_872.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+							{
+								"hardwareid": "PCI\\VEN_8086&DEV_3E90"
+							},
+							{
+								"hardwareid": "PCI\\VEN_8086&DEV_3E91"
+							},
+							{
+								"hardwareid": "PCI\\VEN_8086&DEV_3E92"
+							},
+							{
+								"hardwareid": "PCI\\VEN_8086&DEV_3E93"
+							}
+						],
+						"INFDate": "08/02/2017"
+					}
+				]
+			},
+			{
+				"Name": "BIOS",
+				"Count": 27,
+				"Files": [
+					{
+						"Id": "1@50@11@12@45@3@ROG-STRIX-Z370-I-GAMING-ASUS-2401.zip",
+						"Version": "2401",
+						"Title": "ROG STRIX Z370-I GAMING BIOS  2401",
+						"Description": "Supported Intel® Optane™ Memory H12 device",
+						"FileSize": "9.89 MBytes",
+						"ReleaseDate": "2019/07/18",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/ROG_STRIX_Z370-I_GAMING/ROG-STRIX-Z370-I-GAMING-ASUS-2401.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@3@ROG-STRIX-Z370-I-GAMING-ASUS-2202.zip",
+						"Version": "2202",
+						"Title": "ROG STRIX Z370-I GAMING BIOS 2202",
+						"Description": "Update to new ME & Microcode versions.",
+						"FileSize": "9.88 MBytes",
+						"ReleaseDate": "2019/07/04",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/ROG_STRIX_Z390-I_GAMING/ROG-STRIX-Z370-I-GAMING-ASUS-2202.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@3@ROG-STRIX-Z370-I-GAMING-ASUS-2001.zip",
+						"Version": "2001",
+						"Title": "ROG STRIX Z370-I GAMING BIOS 2001",
+						"Description": "\"Updated IRST for the latest Intel processors to support Intel Optane memory.<br/>*Please make sure to update RST driver to 17.2.6.1027 version or later for better compatibility.\"",
+						"FileSize": "9.94 MBytes",
+						"ReleaseDate": "2019/05/16",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/ROG_STRIX_Z370-I_GAMING/ROG-STRIX-Z370-I-GAMING-ASUS-2001.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@3@ROG-STRIX-Z370-I-GAMING-ASUS-1803.zip",
+						"Version": "1803",
+						"Title": "ROG STRIX Z370-I GAMING BIOS 1803",
+						"Description": "Updated uCode for the latest Intel processor.",
+						"FileSize": "9.94 MBytes",
+						"ReleaseDate": "2019/04/24",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/ROG_STRIX_Z370-I_GAMING/ROG-STRIX-Z370-I-GAMING-ASUS-1803.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@3@MEUpdateTool_11.8.60.3561_S.zip",
+						"Version": "11.8.60.3561",
+						"Title": "MEUpdateTool",
+						"Description": "Intel has identified security issue that could potentially place impacted platform at risk. <br/>Use ME Update tool to update your ME.<br/>*We suggest you update ME Driver to the latest Version 11.8.60.3561 simultaneously.<br/>Please download the file and check the MD5 code first. <br/>MD5: 0b0d53b24dc419816f6845e8e7d77b6d",
+						"FileSize": "4.2 MBytes",
+						"ReleaseDate": "2019/03/12",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/Utility/MEUpdateTool_11.8.60.3561_S.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@3@ROG-STRIX-Z370-I-GAMING-ASUS-1802.zip",
+						"Version": "1802",
+						"Title": "ROG STRIX Z370-I GAMING BIOS 1802",
+						"Description": "Improve system stability",
+						"FileSize": "9.76 MBytes",
+						"ReleaseDate": "2019/01/30",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/ROG_STRIX_Z370-I_GAMING/ROG-STRIX-Z370-I-GAMING-ASUS-1802.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@3@ROG-STRIX-Z370-I-GAMING-ASUS-1601.zip",
+						"Version": "1601",
+						"Title": "ROG STRIX Z370-I GAMING BIOS 1601",
+						"Description": "Improve system stability",
+						"FileSize": "9.75 MBytes",
+						"ReleaseDate": "2018/11/07",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/ROG_STRIX_Z370-I_GAMING/ROG-STRIX-Z370-I-GAMING-ASUS-1601.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@3@ROG-STRIX-Z370-I-GAMING-ASUS-1410.zip",
+						"Version": "1410",
+						"Title": "ROG STRIX Z370-I GAMING BIOS 1410",
+						"Description": "Improve system performance",
+						"FileSize": "9.75 MBytes",
+						"ReleaseDate": "2018/09/29",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/ROG_STRIX_Z370-I_GAMING/ROG-STRIX-Z370-I-GAMING-ASUS-1410.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@3@ROG-STRIX-Z370-I-GAMING-ASUS-1406.zip",
+						"Version": "1406",
+						"Title": "ROG STRIX Z370-I GAMING BIOS 1406",
+						"Description": "1.    Improve system performance",
+						"FileSize": "9.73 MBytes",
+						"ReleaseDate": "2018/09/19",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/ROG_STRIX_Z370-I_GAMING/ROG-STRIX-Z370-I-GAMING-ASUS-1406.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@3@ROG-STRIX-Z370-I-GAMING-ASUS-1002.zip",
+						"Version": "1002",
+						"Title": "ROG STRIX Z370-I GAMING BIOS 1002",
+						"Description": "1.Improve system performance.<br/>2.Supports Intel next gen processor.",
+						"FileSize": "8.39 MBytes",
+						"ReleaseDate": "2018/07/06",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/ROG_STRIX_Z370-I_GAMING/ROG-STRIX-Z370-I-GAMING-ASUS-1002.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@3@ROG-STRIX-Z370-I-GAMING-ASUS-0805.zip",
+						"Version": "0805",
+						"Title": "ROG STRIX Z370-I GAMING BIOS 0805",
+						"Description": "Intel New ME Update, Improve Stability.",
+						"FileSize": "8.2 MBytes",
+						"ReleaseDate": "2018/06/08",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/ROG_STRIX_Z370-I_GAMING/ROG-STRIX-Z370-I-GAMING-ASUS-0805.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@3@ROG-STRIX-Z370-I-GAMING-ASUS-0615.zip",
+						"Version": "0615",
+						"Title": "ROG STRIX Z370-I GAMING BIOS 0615",
+						"Description": "1.Support RAID on CPU function in Z370 series.<br/>2.Improved system performance.",
+						"FileSize": "8.2 MBytes",
+						"ReleaseDate": "2018/04/20",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/ROG_STRIX_Z370-I_GAMING/ROG-STRIX-Z370-I-GAMING-ASUS-0615.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@3@ROG-STRIX-Z370-I-GAMING-ASUS-0614.zip",
+						"Version": "0614",
+						"Title": "ROG STRIX Z370-I GAMING BIOS 0614",
+						"Description": "1. Improve memory compatibility.",
+						"FileSize": "8.19 MBytes",
+						"ReleaseDate": "2018/04/09",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/ROG_STRIX_Z370-I_GAMING/ROG-STRIX-Z370-I-GAMING-ASUS-0614.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@3@ROG-STRIX-Z370-I-GAMING-ASUS-0612.zip",
+						"Version": "0612",
+						"Title": "ROG STRIX Z370-I GAMING BIOS 0612",
+						"Description": "1. Improve system stability",
+						"FileSize": "8.19 MBytes",
+						"ReleaseDate": "2018/03/09",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/ROG_STRIX_Z370-I_GAMING/ROG-STRIX-Z370-I-GAMING-ASUS-0612.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@3@ROG-STRIX-Z370-I-GAMING-ASUS-0606.zip",
+						"Version": "0606",
+						"Title": "ROG STRIX Z370-I GAMING BIOS 0606",
+						"Description": "\"1. Update CPU Microcode <br/> <br/>2. Improve system compatibility and stability\"",
+						"FileSize": "8.19 MBytes",
+						"ReleaseDate": "2018/01/04",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/ROG_STRIX_Z370-I_GAMING/ROG-STRIX-Z370-I-GAMING-ASUS-0606.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@3@ROG-STRIX-Z370-I-GAMING-ASUS-0605.zip",
+						"Version": "0605",
+						"Title": "ROG STRIX Z370-I GAMING BIOS 0605",
+						"Description": "Improve system stability",
+						"FileSize": "8.17 MBytes",
+						"ReleaseDate": "2017/12/15",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/ROG_STRIX_Z370-I_GAMING/ROG-STRIX-Z370-I-GAMING-ASUS-0605.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@3@ROG-STRIX-Z370-I-GAMING-ASUS-5605.zip",
+						"Version": "5605",
+						"Title": "ROG STRIX Z370-I GAMING BIOS 5605",
+						"Description": "Sync all core<br/>Sufficient processor cooling is required for better performance.",
+						"FileSize": "8.17 MBytes",
+						"ReleaseDate": "2017/12/15",
+						"IsRelease": "0",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/ROG_STRIX_Z370-I_GAMING/ROG-STRIX-Z370-I-GAMING-ASUS-5605.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@3@ROG-STRIX-Z370-I-GAMING-ASUS-0430.zip",
+						"Version": "0430",
+						"Title": "ROG STRIX Z370-I GAMING BIOS 0430",
+						"Description": "1.Improve system performance<br/>2.Revise BIOS string for XMP notice",
+						"FileSize": "8.17 MBytes",
+						"ReleaseDate": "2017/11/03",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/ROG_STRIX_Z370-I_GAMING/ROG-STRIX-Z370-I-GAMING-ASUS-0430.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@3@ROG-STRIX-Z370-I-GAMING-ASUS-5430.zip",
+						"Version": "5430",
+						"Title": "ROG STRIX Z370-I GAMING BIOS 5430",
+						"Description": "Sync all core<br/>Sufficient processor cooling is required for better performance.",
+						"FileSize": "8.17 MBytes",
+						"ReleaseDate": "2017/11/03",
+						"IsRelease": "0",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/ROG_STRIX_Z370-I_GAMING/ROG-STRIX-Z370-I-GAMING-ASUS-5430.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@3@ROG-STRIX-Z370-I-GAMING-ASUS-0428.zip",
+						"Version": "0428",
+						"Title": "ROG STRIX Z370-I GAMING BIOS 0428",
+						"Description": "Improve memory stability at DDR4 4000MHz and DDR4 3866MHz",
+						"FileSize": "8.17 MBytes",
+						"ReleaseDate": "2017/11/03",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/ROG_STRIX_Z370-I_GAMING/ROG-STRIX-Z370-I-GAMING-ASUS-0428.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@3@ROG-STRIX-Z370-I-GAMING-ASUS-5428.zip",
+						"Version": "5428",
+						"Title": "ROG STRIX Z370-I GAMING BIOS 5428",
+						"Description": "Sync all core<br/>Sufficient processor cooling is required for better performance.",
+						"FileSize": "8.17 MBytes",
+						"ReleaseDate": "2017/11/01",
+						"IsRelease": "0",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/ROG_STRIX_Z370-I_GAMING/ROG-STRIX-Z370-I-GAMING-ASUS-5428.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@3@ROG-STRIX-Z370-I-GAMING-ASUS-5426.zip",
+						"Version": "5426",
+						"Title": "ROG STRIX Z370-I GAMING BIOS 5426",
+						"Description": "Sync all core<br/>Sufficient processor cooling is required for better performance.",
+						"FileSize": "8.16 MBytes",
+						"ReleaseDate": "2017/10/31",
+						"IsRelease": "0",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/ROG_STRIX_Z370-I_GAMING/ROG-STRIX-Z370-I-GAMING-ASUS-5426.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@3@ROG-STRIX-Z370-I-GAMING-ASUS-0427.zip",
+						"Version": "0427",
+						"Title": "ROG STRIX Z370-I GAMING BIOS 0427",
+						"Description": "Improve system stability",
+						"FileSize": "8.17 MBytes",
+						"ReleaseDate": "2017/10/27",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/ROG_STRIX_Z370-I_GAMING/ROG-STRIX-Z370-I-GAMING-ASUS-0427.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@3@ROG-STRIX-Z370-I-GAMING-ASUS-0426.zip",
+						"Version": "0426",
+						"Title": "ROG STRIX Z370-I GAMING BIOS 0426",
+						"Description": "Improve system stability",
+						"FileSize": "8.16 MBytes",
+						"ReleaseDate": "2017/10/20",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/ROG_STRIX_Z370-I_GAMING/ROG-STRIX-Z370-I-GAMING-ASUS-0426.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@3@ROG-STRIX-Z370-I-GAMING-ASUS-0411.zip",
+						"Version": "0411",
+						"Title": "ROG STRIX Z370-I GAMING BIOS 0411",
+						"Description": "Improve system stability",
+						"FileSize": "8.16 MBytes",
+						"ReleaseDate": "2017/10/20",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/ROG_STRIX_Z370-I_GAMING/ROG-STRIX-Z370-I-GAMING-ASUS-0411.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@3@ROG-STRIX-Z370-I-GAMING-ASUS-0406.zip",
+						"Version": "0406",
+						"Title": "ROG STRIX Z370-I GAMING BIOS 0406",
+						"Description": "1.Improved DRAM/VGA compatibility<br/>2.Updated CPU Microcode",
+						"FileSize": "8.15 MBytes",
+						"ReleaseDate": "2017/09/21",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/ROG_STRIX_Z370-I_GAMING/ROG-STRIX-Z370-I-GAMING-ASUS-0406.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@3@ROG-STRIX-Z370-I-GAMING-ASUS-0404.zip",
+						"Version": "0404",
+						"Title": "ROG STRIX Z370-I GAMING BIOS 0404",
+						"Description": "First Release BIOS",
+						"FileSize": "8.15 MBytes",
+						"ReleaseDate": "2017/09/08",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/ROG_STRIX_Z370-I_GAMING/ROG-STRIX-Z370-I-GAMING-ASUS-0404.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					}
+				]
+			},
+			{
+				"Name": "AUDIO",
+				"Count": 7,
+				"Files": [
+					{
+						"Id": "1@50@11@12@45@4@V8746_WHQL_191203_SS3.6.45_FF03_WIN7_19H1.zip",
+						"Version": "6.0.1.8746",
+						"Title": "Realtek Audio Driver",
+						"Description": "Updated User Account Control verification mechanism to match the revised requirements of the kb4524147 hotfix",
+						"FileSize": "686.47 MBytes",
+						"ReleaseDate": "2019/12/03",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/01AUDIO/V8746_WHQL_191203_SS3.6.45_FF03_WIN7_19H1.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@4@DRV_Audio_RTK_SZ_Nahimi_TSD_W10_64_VER6018666_20190611R.zip",
+						"Version": "6.0.1.8666",
+						"Title": "Realtek Audio Driver",
+						"Description": "Install Realtek Audio Driver.",
+						"FileSize": "161.71 MBytes",
+						"ReleaseDate": "2019/06/13",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/01AUDIO/DRV_Audio_RTK_SZ_Nahimi_TSD_W10_64_VER6018666_20190611R.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+							{
+								"hardwareid": "HDAUDIO\\FUNC_01&VEN_10EC&DEV_"
+							}
+						],
+						"INFDate": "03/26/2019"
+					},
+					{
+						"Id": "1@50@11@12@45@4@DRV_Audio_RTK_SZ_Nahimi_W10_64_VER6018573_20190401R.zip",
+						"Version": "6.0.1.8573",
+						"Title": "Realtek Audio Driver",
+						"Description": "for SSID 8723,WHQL.",
+						"FileSize": "156.96 MBytes",
+						"ReleaseDate": "2019/04/03",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/01AUDIO/DRV_Audio_RTK_SZ_Nahimi_W10_64_VER6018573_20190401R.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@4@Realtek_Audio_Driver_V6.0.1.8382_0412.zip",
+						"Version": "6.0.1.8382",
+						"Title": "Realtek_Audio_Drive",
+						"Description": "Improve system stability & Support Windows 10 latest version (Build 16299)",
+						"FileSize": "645.24 MBytes",
+						"ReleaseDate": "2018/04/12",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/01AUDIO/Realtek_Audio_Driver_V6.0.1.8382_0412.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@4@DRV_Audio_Realtek_TP_W10_64_VER6018339_20180214R.zip",
+						"Version": "6.0.1.8339",
+						"Title": "Realtek Audio Driver V6.0.1.8339",
+						"Description": "Updated Amplify Level behavior to prevent overwriting manual adjustments upon reboot or resume from sleep/hibernation.",
+						"FileSize": "646.83 MBytes",
+						"ReleaseDate": "2018/02/24",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/01AUDIO/DRV_Audio_Realtek_TP_W10_64_VER6018339_20180214R.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@4@Realtek_Audio_driver_6.0.1.8273_WHQL.zip",
+						"Version": "6.0.1.8273",
+						"Title": "Realtek Audio Driver",
+						"Description": "Improve system stability & Support Windows 10 latest version (Build 16299)",
+						"FileSize": "750.3 MBytes",
+						"ReleaseDate": "2017/12/28",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/01AUDIO/Realtek_Audio_driver_6.0.1.8273_WHQL.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@4@Realtek_AudioDriver_Win10_V6018184_20170830.zip",
+						"Version": "6.0.1.8184",
+						"Title": "Realtek Audio Driver",
+						"Description": "Realtek Audio Driver V6.0.1.8184 for Windows 10 64-bit---(WHQL).<br/>Sonic Radar3 V3.6.13.44214 for Windows 10 64-bit.   Sonic Studio3 V3.6.13.44214 for Windows 10 64-bit.",
+						"FileSize": "738.8 MBytes",
+						"ReleaseDate": "2017/08/30",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/01AUDIO/Realtek_AudioDriver_Win10_V6018184_20170830.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+							{
+								"hardwareid": "HDAUDIO\\FUNC_01&VEN_10EC&DEV_"
+							}
+						],
+						"INFDate": "06/13/2017"
+					}
+				]
+			},
+			{
+				"Name": "LAN",
+				"Count": 4,
+				"Files": [
+					{
+						"Id": "1@50@11@12@45@5@DRV_LAN_Intel_I219_UWD_SZ_TSD_W10_64_VER121897_20190801R.zip",
+						"Version": "12.18.9.7",
+						"Title": "Intel(R) Gigabit Ethernet Driver",
+						"Description": "Install Intel(R) Gigabit Ethernet Driver.",
+						"FileSize": "2.57 MBytes",
+						"ReleaseDate": "2019/08/01",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/04LAN/DRV_LAN_Intel_I219_UWD_SZ_TSD_W10_64_VER121897_20190801R.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@5@DRV_LAN_Intel_I219_SZ_W10_64_VER121884_20190402R.zip",
+						"Version": "12.18.8.4",
+						"Title": "Intel LAN Driver",
+						"Description": "1.Support LAN IC:I219 <br/>2.Support OS: Win10 64bit",
+						"FileSize": "2.5 MBytes",
+						"ReleaseDate": "2019/04/03",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/04LAN/DRV_LAN_Intel_I219_SZ_W10_64_VER121884_20190402R.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@5@Intel_LAN_RS3_22.9.16.0.zip",
+						"Version": "22.9.16.0",
+						"Title": "Intel LAN driver",
+						"Description": "Improve system stability & Support Windows 10 latest version (Build 16299)",
+						"FileSize": "149.06 MBytes",
+						"ReleaseDate": "2017/12/28",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/04LAN/Intel_LAN_RS3_22.9.16.0.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@5@IntelLAN_22.6.6.0_20170907.zip",
+						"Version": "22.6.6.0",
+						"Title": "Intel LAN Driver",
+						"Description": "Intel LAN Driver for Windows 7 64bit &Windows 10 64bit",
+						"FileSize": "107.52 MBytes",
+						"ReleaseDate": "2017/09/11",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/04LAN/IntelLAN_22.6.6.0_20170907.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+							{
+								"hardwareid": "PCI\\VEN_8086&DEV_15B8"
+							}
+						],
+						"INFDate": "03/21/2017"
+					}
+				]
+			},
+			{
+				"Name": "Software and Utility",
+				"Count": 35,
+				"Files": [
+					{
+						"Id": "1@50@11@12@45@14@RamCacheII_1.05.15_Release.zip",
+						"Version": "1.05.15",
+						"Title": "RAMCache II V1.05.15",
+						"Description": "Updated for Program.exe. <br/>Thanks for Tejas Pingulkar contribution.",
+						"FileSize": "4.86 MBytes",
+						"ReleaseDate": "2020/09/15",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/Utility/RamCacheII_1.05.15_Release.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@SW_DAEMON_Tools_Lite_TP_W10_64_V101301387_20200804R.zip",
+						"Version": "V10.13.0.1387",
+						"Title": "DAEMON Tools Lite V10.13.0.1387 For Windows 10 64-bit.",
+						"Description": "",
+						"FileSize": "29.06 MBytes",
+						"ReleaseDate": "2020/08/18",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/14Utilities/SW_DAEMON_Tools_Lite_TP_W10_64_V101301387_20200804R.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@SW_WinRAR_W10_64_V5900_20200623R.zip",
+						"Version": "5.90.0",
+						"Title": "WinRAR V5.90.0 For Windows 10 64-bit.",
+						"Description": "",
+						"FileSize": "37.08 MBytes",
+						"ReleaseDate": "2020/07/01",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/14Utilities/SW_WinRAR_W10_64_V5900_20200623R.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@SW_ROG_CPU-Z_W10_64_V192_20200528R.zip",
+						"Version": "1.92",
+						"Title": "ROG CPU-Z V1.92 for Windows 10 64-bit",
+						"Description": "-    Intel Z490/W480/B460 Comet Lake platform support<br/> -    AMD \"Renoir\" Ryzen APU<br/> -    AMD Ryzen 3 3100 & 3300X<br/> -    Windows 10 on ARM processor preliminary support<br/> -    FIX 4K Monitor issue",
+						"FileSize": "3.57 MBytes",
+						"ReleaseDate": "2020/06/09",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/14Utilities/SW_ROG_CPU-Z_W10_64_V192_20200528R.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@SW_WinRAR_W10_64_VER5710_20200213R.zip",
+						"Version": "5.71.0",
+						"Title": "WinRAR",
+						"Description": "WinRAR V5.71.0 for Windows 10 64-bit.",
+						"FileSize": "36.27 MBytes",
+						"ReleaseDate": "2020/02/17",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/Utility/SW_WinRAR_W10_64_VER5710_20200213R.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@SW_ROG_CPU-Z_W10_64_VER190_20190920R.zip",
+						"Version": "1.90",
+						"Title": "ASUS ROG CPU-Z V1.90 for Windows 10 64-bit",
+						"Description": "",
+						"FileSize": "3.53 MBytes",
+						"ReleaseDate": "2019/11/27",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/14Utilities/SW_ROG_CPU-Z_W10_64_VER190_20190920R.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@Ai_SuiteIII_3.00.52_EZ_Update_3.00.11.zip",
+						"Version": "3.00.11",
+						"Title": "ASUS EZ Update V3.00.11",
+						"Description": "Support OS： Win10 64bit",
+						"FileSize": "65.38 MBytes",
+						"ReleaseDate": "2019/08/12",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/H310M-C_HDMI/Ai_SuiteIII_3.00.52_EZ_Update_3.00.11.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@SW_ROG_CPU-Z_W10_64_VER188_20190605R.zip",
+						"Version": "1.88",
+						"Title": "ASUS ROG_CPU-Z V1.88 for Windows 10 64-bit",
+						"Description": "",
+						"FileSize": "3.52 MBytes",
+						"ReleaseDate": "2019/06/11",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/14Utilities/SW_ROG_CPU-Z_W10_64_VER188_20190605R.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@AI_SuiteIII_V3.00.51_DES.zip",
+						"Version": "3.00.51",
+						"Title": "-AI_SuiteIII",
+						"Description": "-AI_SuiteIII           - ASUS AI Suite 3 V3.00.51 for Windows 10 64-bit.<br/>    -DIP5                - Dual Intelligent Processors 5 V2.00.02 for Windows 10 64-bit.<br/>    -EZUpdate            - EZ Update V3.00.03 for Windows 10 64-bit.<br/>    -System Information  - System Information V2.00.02 for Windows 10 64-bit.",
+						"FileSize": "163.27 MBytes",
+						"ReleaseDate": "2019/04/17",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/Utility/AI_SuiteIII_V3.00.51_DES.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@SW_ASUS_EZ_Installer_W10_64_W7_64_VER10401_20190401R.zip",
+						"Version": "1.04.01",
+						"Title": "ASUS EZ Installer",
+						"Description": "File resign.",
+						"FileSize": "41.49 MBytes",
+						"ReleaseDate": "2019/04/04",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/Utility/SW_ASUS_EZ_Installer_W10_64_W7_64_VER10401_20190401R.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@DAEMON_Tools_Lite_W10_64_VER101000779_20190401R.zip",
+						"Version": "10.10.0.0779",
+						"Title": "DAEMON Tools",
+						"Description": "DAEMON Tools V10.10.0.0779 for Windows 10 64-bit.",
+						"FileSize": "30.45 MBytes",
+						"ReleaseDate": "2019/04/04",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/Utility/DAEMON_Tools_Lite_W10_64_VER101000779_20190401R.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@ROG_CPU-Z_W10_64_VER187_20190401R.zip",
+						"Version": "1.87",
+						"Title": "ROG CPU-Z",
+						"Description": "ROG CPU-Z V1.87 for Windows 10 64-bit.",
+						"FileSize": "3.49 MBytes",
+						"ReleaseDate": "2019/04/04",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/Utility/ROG_CPU-Z_W10_64_VER187_20190401R.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@SW_WinRAR_W10_64_VER5700_20190401R.zip",
+						"Version": "5.70.0",
+						"Title": "WinRAR",
+						"Description": "WinRAR V5.70.0 for Windows 10 64-bit.",
+						"FileSize": "36.24 MBytes",
+						"ReleaseDate": "2019/04/04",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/Utility/SW_WinRAR_W10_64_VER5700_20190401R.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@DAEMON_Tools_Lite_W10_64_VER10900644_20181109R.zip",
+						"Version": "10.9.0.0644",
+						"Title": "DAEMON Tools Lite for ASUS",
+						"Description": "The most personal application for disc imaging yet.",
+						"FileSize": "37.34 MBytes",
+						"ReleaseDate": "2018/11/21",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/Utility/DAEMON_Tools_Lite_W10_64_VER10900644_20181109R.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@AI_Suite_III_3.00.31.zip",
+						"Version": "3.00.31",
+						"Title": "AI_Suite_III_3.00.31",
+						"Description": "",
+						"FileSize": "58.45 MBytes",
+						"ReleaseDate": "2018/11/07",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/B150M-C/AI_Suite_III_3.00.31.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@AI_Suite_III_3.00.28.zip",
+						"Version": "3.00.28",
+						"Title": "Ai suite3-3.00.28&DIP5-1.06.52",
+						"Description": "",
+						"FileSize": "148.76 MBytes",
+						"ReleaseDate": "2018/10/31",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/ROG_STRIX_Z370-E_GAMING/AI_Suite_III_3.00.28.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@DAEMON_Tools_Win10-64bit_V10.7.0.0336_20180307.zip",
+						"Version": "10.7.0.0336",
+						"Title": "DAEMON Tools",
+						"Description": "DAEMON Tools V10.7.0.0336 for Windows 10 64-bit.",
+						"FileSize": "32 MBytes",
+						"ReleaseDate": "2018/03/07",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/Utility/DAEMON_Tools_Win10-64bit_V10.7.0.0336_20180307.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@ASUS_Ai_Charger_Win10-64bit_V1.06.00_20180307.zip",
+						"Version": "1.06.00",
+						"Title": "ASUS Ai Charger",
+						"Description": "ASUS Ai Charger V1.06.00 for Windows 10 64-bit.",
+						"FileSize": "2.59 MBytes",
+						"ReleaseDate": "2018/03/07",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/Utility/ASUS_Ai_Charger_Win10-64bit_V1.06.00_20180307.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@AURA_Win10-64bit_V1.05.32.02_20180307.zip",
+						"Version": "1.05.32.02",
+						"Title": "AURA",
+						"Description": "AURA V1.05.32.02 for Windows 10 64-bit.",
+						"FileSize": "36.98 MBytes",
+						"ReleaseDate": "2018/03/07",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/Utility/AURA_Win10-64bit_V1.05.32.02_20180307.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@SW_ASUS_AISuite3_DIP5_V30013_10514_20180201.zip",
+						"Version": "1.05.14",
+						"Title": "Dual Intelligent Processors 5",
+						"Description": "Fix compatibility issue with the latest Windows updates. Dual Intelligent Processors 5 update v1.05.14 patches an issue that resulted in the Windows power plan being forced to “balanced\". Note that this patched build only includes the DIP5 utility, it does not include other utilities in AI Suite 3.<br/>- AI Suite 3 v3.00.13<br/>- Dual Intelligent Processors 5 v1.05.14",
+						"FileSize": "146.47 MBytes",
+						"ReleaseDate": "2018/02/01",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/Utility/SW_ASUS_AISuite3_DIP5_V30013_10514_20180201.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@SW_DAEMON_Tools_Lite_W10_64_VER10700336_20180118R.zip",
+						"Version": "10.7.0.0336",
+						"Title": "DAEMON Tools",
+						"Description": "Install DAEMON Tools. Note:Internet connection is required for successful DAEMON Tools activation.",
+						"FileSize": "32 MBytes",
+						"ReleaseDate": "2018/01/18",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/Utility/SW_DAEMON_Tools_Lite_W10_64_VER10700336_20180118R.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@AI_Suite_III_3.00.13_DIP5_1.05.13.zip",
+						"Version": "3.00.13",
+						"Title": "ASUS AI Suite 3",
+						"Description": "Fix compatibility issue between the latest Windows 10 update KB4056892.<br/><br/>- AI Suite 3 v3.00.13<br/>- Dual Intelligent Processors 5 v1.05.13",
+						"FileSize": "146.47 MBytes",
+						"ReleaseDate": "2018/01/16",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/Utility/AI_Suite_III_3.00.13_DIP5_1.05.13.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@GameFirst_IV_1.7.2.0.zip",
+						"Version": "1.7.2.0",
+						"Title": "GameFirst_IV_1.7.2.0 for Windows Win8.1 64bit & Win10 64bit.",
+						"Description": "GameFirst_IV_1.7.2.0 for Windows Win8.1 64bit & Win10 64bit.",
+						"FileSize": "15.68 MBytes",
+						"ReleaseDate": "2018/01/10",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/Utility/GameFirst_IV_1.7.2.0.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@IXTU_6.4.0.202_20171005.zip",
+						"Version": "6.4.0.202",
+						"Title": "IXTU V6.4.0.202",
+						"Description": "",
+						"FileSize": "44.35 MBytes",
+						"ReleaseDate": "2017/10/09",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/Utility/IXTU_6.4.0.202_20171005.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@RAMCACHE_II_Win10_V10508_20170920.zip",
+						"Version": "1.05.08",
+						"Title": "RAMCACHE II",
+						"Description": "RAMCACHE II V1.05.08 for Windows 10 64-bit.",
+						"FileSize": "6.75 MBytes",
+						"ReleaseDate": "2017/09/20",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/Utility/RAMCACHE_II_Win10_V10508_20170920.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@Clone_Drive_Win10_V10405_20170920.zip",
+						"Version": "1.04.05",
+						"Title": "Clone Drive",
+						"Description": "Clone Drive V1.04.05 for Windows 10 64-bit.",
+						"FileSize": "6.14 MBytes",
+						"ReleaseDate": "2017/09/20",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/Utility/Clone_Drive_Win10_V10405_20170920.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@ASUS_AISuite3_Win10_V20012_20170906_165.zip",
+						"Version": "2.00.12",
+						"Title": "ASUS AI Suite 3",
+						"Description": "ASUS AI Suite 3 V2.00.12 for Windows 10 64-bit.<br/>DIP5                 Dual Intelligent Processors 5 V1.04.75 for Windows 10 64-bit.<br/>EZUpdate            EZ Update V2.03.17 for Windows 10 64-bit.<br/>System Information  System Information V1.01.19 for Windows 10 64-bit.",
+						"FileSize": "140.76 MBytes",
+						"ReleaseDate": "2017/09/06",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/Utility/ASUS_AISuite3_Win10_V20012_20170906_165.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@ROGGameFirst_IV_V1.6.6.0_20170905.zip",
+						"Version": "1.6.6.0",
+						"Title": "ROGGameFirst_IV",
+						"Description": "ROGGameFirst_IV_V1.6.6.0",
+						"FileSize": "13.62 MBytes",
+						"ReleaseDate": "2017/09/05",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/Utility/ROGGameFirst_IV_V1.6.6.0_20170905.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@IXTU_Win10_V6406_20170830.zip",
+						"Version": "6.4.0.6",
+						"Title": "Intel(R) Extreme Tuning Utility",
+						"Description": "Intel(R) Extreme Tuning Utility V6.4.0.6 for Windows 10 64-bit.",
+						"FileSize": "39.77 MBytes",
+						"ReleaseDate": "2017/08/30",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/Utility/IXTU_Win10_V6406_20170830.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@ROG_CPU-Z_Win10_V180_20170830_5.01.zip",
+						"Version": "1.80",
+						"Title": "ROG CPU-Z",
+						"Description": "ROG CPU-Z V1.80 for Windows 10 64-bit.",
+						"FileSize": "3.34 MBytes",
+						"ReleaseDate": "2017/08/30",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/Utility/ROG_CPU-Z_Win10_V180_20170830_5.01.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@RAMCache_II_Win10_V10505_20170830.zip",
+						"Version": "1.05.05",
+						"Title": "RAMCache II",
+						"Description": "RAMCache II V1.05.05 for Windows 10 64-bit.",
+						"FileSize": "6.72 MBytes",
+						"ReleaseDate": "2017/08/30",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/Utility/RAMCache_II_Win10_V10505_20170830.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@ASUS_AiCharger_Win10_V10502_20170830.zip",
+						"Version": "1.05.02",
+						"Title": "ASUS Ai Charger",
+						"Description": "ASUS Ai Charger V1.05.02 for Windows 10 64-bit.",
+						"FileSize": "2.36 MBytes",
+						"ReleaseDate": "2017/08/30",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/Utility/ASUS_AiCharger_Win10_V10502_20170830.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@Clone_Drive_Win10_V10402_20170830.zip",
+						"Version": "1.04.02",
+						"Title": "Clone Drive",
+						"Description": "Clone Drive V1.04.02 for Windows 10 64-bit.",
+						"FileSize": "6.11 MBytes",
+						"ReleaseDate": "2017/08/30",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/Utility/Clone_Drive_Win10_V10402_20170830.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@ASUS_EZInstaller_V10316_20170830_43.1.zip",
+						"Version": "1.03.16",
+						"Title": "ASUS EZ Installer",
+						"Description": "ASUS EZ Installer 1.03.16 to create a Windows 7 installation file with USB 3.0 drivers preloaded for 200 series motherboards.",
+						"FileSize": "41.16 MBytes",
+						"ReleaseDate": "2017/08/30",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/Utility/ASUS_EZInstaller_V10316_20170830_43.1.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@14@Overwolf_20170830.zip",
+						"Version": "-",
+						"Title": "Overwolf online install",
+						"Description": "Overwolf online install for Windows 10 64-bit.",
+						"FileSize": "2.74 MBytes",
+						"ReleaseDate": "2017/08/30",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/Utility/Overwolf_20170830.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					}
+				]
+			},
+			{
+				"Name": "Wireless",
+				"Count": 6,
+				"Files": [
+					{
+						"Id": "1@50@11@12@45@19@DRV_WiFi_Realtek_RS5_SZ_W10_64_VER202404102_20190401R.zip",
+						"Version": "2024.0.4.102",
+						"Title": "ASUS Wi-Fi Driver",
+						"Description": "ASUS Wi-Fi Driver",
+						"FileSize": "25.58 MBytes",
+						"ReleaseDate": "2019/04/04",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/08WIRELESS/DRV_WiFi_Realtek_RS5_SZ_W10_64_VER202404102_20190401R.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@19@RTK_WiFi_2024.0.4.102_RS5.zip",
+						"Version": "2024.0.4.102",
+						"Title": "ASUS Wi-Fi Driver",
+						"Description": "Improve system stability & Support Windows 10  Build 17763",
+						"FileSize": "25.67 MBytes",
+						"ReleaseDate": "2019/01/24",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/08WIRELESS/RTK_WiFi_2024.0.4.102_RS5.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@19@Realtek_WIFI_V2023.79.0601.2018_RS4.zip",
+						"Version": "2023.79.601.2018",
+						"Title": "ASUS Wi-Fi Driver",
+						"Description": "Improve system stability & Support Windows 10 latest version.<br/>NOTICE:<br/>Due to the different structure for drivers, suggest you remove the old driver first before install this version driver.",
+						"FileSize": "22.18 MBytes",
+						"ReleaseDate": "2018/07/25",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/Wireless/Realtek_WIFI_V2023.79.0601.2018_RS4.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@19@Realtek_WiFi_RS3_2023.66.1104.2017.zip",
+						"Version": "2023.66.1104.2017",
+						"Title": "Realtek WiFi driver",
+						"Description": "Improve system stability & Support Windows 10 latest version (Build 16299)",
+						"FileSize": "37.59 MBytes",
+						"ReleaseDate": "2017/12/28",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/08WIRELESS/Realtek_WiFi_RS3_2023.66.1104.2017.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@19@WIFI_Win10_2023.66.1104.2017_20171110.zip",
+						"Version": "2023.66.1104.2017",
+						"Title": "Wi-Fi Driver",
+						"Description": "Wi-Fi Driver V2023.66.1104.2017 for Windows 10 64bit.(WHQL)",
+						"FileSize": "40.37 MBytes",
+						"ReleaseDate": "2017/12/06",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/ROG_MAXIMUS_X_HERO/WIFI_Win10_2023.66.1104.2017_20171110.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@19@ASUS_Wi-FiDriver_Win10_V2023554152017_20170830_66.2.zip",
+						"Version": "2023.55.415.2017",
+						"Title": "ASUS Wi-Fi Driver",
+						"Description": "ASUS Wi-Fi Driver V2023.55.415.2017 for Windows 7 64bit &Windows 10 64-bit---(WHQL).",
+						"FileSize": "34.59 MBytes",
+						"ReleaseDate": "2017/08/30",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/08WIRELESS/ASUS_Wi-FiDriver_Win10_V2023554152017_20170830_66.2.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+							{
+								"hardwareid": "PCI\\VEN_10EC&DEV_B822"
+							}
+						],
+						"INFDate": "05/18/2017"
+					}
+				]
+			},
+			{
+				"Name": "Chipset",
+				"Count": 11,
+				"Files": [
+					{
+						"Id": "1@50@11@12@45@23@DRV_MEI_Intel_Con_SZ_TSD_W10_64_VER19141201256_20190806R.zip",
+						"Version": "1914.12.0.1256",
+						"Title": "Management Engine Interface",
+						"Description": "Install Management Engine Interface.",
+						"FileSize": "98.79 MBytes",
+						"ReleaseDate": "2019/08/06",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/03CHIPSET/DRV_MEI_Intel_Con_SZ_TSD_W10_64_VER19141201256_20190806R.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@23@DRV_Chipset_Intel_TSD_SZ_W10_64_VER101180198144_20190722R.zip",
+						"Version": "10.1.18019.8144",
+						"Title": "Intel Chipset Driver",
+						"Description": "Install Intel Chipset Driver.",
+						"FileSize": "5.24 MBytes",
+						"ReleaseDate": "2019/07/22",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/03CHIPSET/DRV_Chipset_Intel_TSD_SZ_W10_64_VER101180198144_20190722R.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@23@DRV_MEI_Intel_Con_SZ_W10_64_VER18281201152_20190401R.zip",
+						"Version": "1828.12.0.1152",
+						"Title": "Management Engine Interface",
+						"Description": "Support 300 series corporate projects.",
+						"FileSize": "84.78 MBytes",
+						"ReleaseDate": "2019/04/04",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/09MEI/DRV_MEI_Intel_Con_SZ_W10_64_VER18281201152_20190401R.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@23@DRV_MEI_Intel_Con_KBL_SZ_W10_64_VER11701057_20190401R.zip",
+						"Version": "11.7.0.1057",
+						"Title": "MEI_Intel",
+						"Description": "Support KBL series project.",
+						"FileSize": "66.21 MBytes",
+						"ReleaseDate": "2019/04/03",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/03CHIPSET/DRV_MEI_Intel_Con_KBL_SZ_W10_64_VER11701057_20190401R.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@23@DRV_Chipset_Intel_RS5_SZ_W10_64_VER101178098096_20190401R.zip",
+						"Version": "10.1.17809.8096",
+						"Title": "Intel Chipset Driver",
+						"Description": "RS5 first WHQL.Support GLK/CFL/KBL-R platform <br/>Package version:10.1.17809.8096",
+						"FileSize": "6.85 MBytes",
+						"ReleaseDate": "2019/04/03",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/03CHIPSET/DRV_Chipset_Intel_RS5_SZ_W10_64_VER101178098096_20190401R.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@23@IntelME_1815.12.0.2021DC_RS4PV_20180702.zip",
+						"Version": "1815.12.0.2021",
+						"Title": "Management Engine Interface",
+						"Description": "Improve system stability & Support Windows 10 latest version.<br/>NOTICE:<br/>Due to the different structure for drivers, suggest you remove the old driver first before install this version driver.",
+						"FileSize": "85.78 MBytes",
+						"ReleaseDate": "2018/07/25",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/03CHIPSET/IntelME_1815.12.0.2021DC_RS4PV_20180702.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@23@Chipset_RS3_10.1.1.45_20171121.zip",
+						"Version": "10.1.1.45",
+						"Title": "Intel Chipset Driver",
+						"Description": "Improve system stability & Support Windows 10 latest version (Build 16299)",
+						"FileSize": "5.52 MBytes",
+						"ReleaseDate": "2017/12/28",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/03CHIPSET/Chipset_RS3_10.1.1.45_20171121.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@23@ConsumerME_RS3_11.7.0.1045_2017112l.zip",
+						"Version": "11.7.0.1045",
+						"Title": "Management Engine Interface",
+						"Description": "Improve system stability & Support Windows 10 latest version (Build 16299)",
+						"FileSize": "74.26 MBytes",
+						"ReleaseDate": "2017/12/28",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/03CHIPSET/ConsumerME_RS3_11.7.0.1045_2017112l.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@23@Z370Consumer_11.7.0.1040.zip",
+						"Version": "11.7.0.1040",
+						"Title": "Management Engine Interface",
+						"Description": "Improve system stability",
+						"FileSize": "86.56 MBytes",
+						"ReleaseDate": "2017/11/01",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/03CHIPSET/Z370Consumer_11.7.0.1040.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@23@MEI_Win10_V11701032_20170830_81.1.zip",
+						"Version": "11.7.0.1032",
+						"Title": "Management Engine Interface",
+						"Description": "Management Engine Interface V11.7.0.1032 for Windows 10 64-bit---(WHQL).",
+						"FileSize": "78.94 MBytes",
+						"ReleaseDate": "2017/08/30",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/03CHIPSET/MEI_Win10_V11701032_20170830_81.1.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+							{
+								"hardwareid": "PCI\\VEN_8086&DEV_A2BA"
+							}
+						],
+						"INFDate": "06/20/2017"
+					},
+					{
+						"Id": "1@50@11@12@45@23@Intel_Chipset_Win10_V101144_20170830_7.45.zip",
+						"Version": "10.1.1.44",
+						"Title": "Intel Chipset Driver",
+						"Description": "Intel Chipset Driver V10.1.1.44 for Windows 10 64-bit---(WHQL).",
+						"FileSize": "4.96 MBytes",
+						"ReleaseDate": "2017/08/30",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/03CHIPSET/Intel_Chipset_Win10_V101144_20170830_7.45.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+							{
+								"hardwareid": "PCI\\VEN_8086&DEV_A2A3"
+							}
+						],
+						"INFDate": "07/18/1968"
+					}
+				]
+			},
+			{
+				"Name": "SATA",
+				"Count": 8,
+				"Files": [
+					{
+						"Id": "1@50@11@12@45@25@DRV_RST_Intel_TSD_SZ_W10_64_VER17501017_20190703R.zip",
+						"Version": "17.5.0.1017",
+						"Title": "Intel Rapid Storage Technology Driver software",
+						"Description": "Install Intel Rapid Storage Technology Driver software.",
+						"FileSize": "31.1 MBytes",
+						"ReleaseDate": "2019/07/03",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/05SATA/DRV_RST_Intel_TSD_SZ_W10_64_VER17501017_20190703R.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@25@DRV_RST_Intel_TSD_SZ_W10_64_VER17261027_20190424R.zip",
+						"Version": "17.2.6.1027",
+						"Title": "Intel Rapid Storage Technology Driver software",
+						"Description": "Install Intel Rapid Storage Technology Driver software.",
+						"FileSize": "30.34 MBytes",
+						"ReleaseDate": "2019/04/24",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/05SATA/DRV_RST_Intel_TSD_SZ_W10_64_VER17261027_20190424R.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@25@DRV_RST_Intel_CNL_SZ_W10_64_VER17201009_20190401R.zip",
+						"Version": "17.2.0.1009",
+						"Title": "Intel Rapid Storage Technology Driver software",
+						"Description": "Support 300 series",
+						"FileSize": "29.83 MBytes",
+						"ReleaseDate": "2019/04/04",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/05SATA/DRV_RST_Intel_CNL_SZ_W10_64_VER17201009_20190401R.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@25@RST_17.0.1.1075_RS5_20190118.zip",
+						"Version": "17.0.1.1075",
+						"Title": "Intel Rapid Storage Technology Driver software",
+						"Description": "Improve system stability & Support Windows 10  Build 17763",
+						"FileSize": "29.86 MBytes",
+						"ReleaseDate": "2019/01/24",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/05SATA/RST_17.0.1.1075_RS5_20190118.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@25@RST_16.8.0.1000_20181228.zip",
+						"Version": "16.8.0.1000",
+						"Title": "Intel Rapid Storage Technology Driver software",
+						"Description": "Improve system stability.<br/>Phased in IRST V16.8",
+						"FileSize": "29.34 MBytes",
+						"ReleaseDate": "2018/12/28",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/05SATA/RST_16.8.0.1000_20181228.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@25@IRST_RS3_15.9.0.1015_20171115.zip",
+						"Version": "15.9.0.1015",
+						"Title": "Intel Rapid Storage Technology Driver software",
+						"Description": "Improve system stability & Support Windows 10 latest version (Build 16299)",
+						"FileSize": "27.34 MBytes",
+						"ReleaseDate": "2017/12/28",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/05SATA/IRST_RS3_15.9.0.1015_20171115.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@25@RST_15.8.1.1007_20170913_WHQL.zip",
+						"Version": "15.8.1.1007",
+						"Title": "Intel Rapid Storage Technology Driver software",
+						"Description": "Improve system stability.",
+						"FileSize": "27.14 MBytes",
+						"ReleaseDate": "2017/09/27",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/05SATA/RST_15.8.1.1007_20170913_WHQL.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+							{
+								"hardwareid": "PCI\\VEN_8086&DEV_2822"
+							},
+							{
+								"hardwareid": "PCI\\VEN_8086&DEV_A282"
+							}
+						],
+						"INFDate": "08/07/2017"
+					},
+					{
+						"Id": "1@50@11@12@45@25@IRST_Driver_Win10_V15801006_20170901.zip",
+						"Version": "15.8.0.1006",
+						"Title": "Intel Rapid Storage Technology Driver software",
+						"Description": "Intel Rapid Storage Technology Driver software V15.8.0.1006 for Windows 10 64-bit---(WHQL).",
+						"FileSize": "27.08 MBytes",
+						"ReleaseDate": "2017/09/01",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/05SATA/IRST_Driver_Win10_V15801006_20170901.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+							{
+								"hardwareid": "PCI\\VEN_8086&DEV_2822"
+							},
+							{
+								"hardwareid": "PCI\\VEN_8086&DEV_A282"
+							}
+						],
+						"INFDate": "07/13/2017"
+					}
+				]
+			},
+			{
+				"Name": "Bluetooth",
+				"Count": 5,
+				"Files": [
+					{
+						"Id": "1@50@11@12@45@27@DRV_Bluetooth_Realtek_RS5_SZ_W10_64_VER1510143003_20190401R.zip",
+						"Version": "1.5.1014.3003",
+						"Title": "ASUS Bluetooth Driver",
+						"Description": "ASUS Bluetooth Driver",
+						"FileSize": "21.68 MBytes",
+						"ReleaseDate": "2019/04/03",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/02BT/DRV_Bluetooth_Realtek_RS5_SZ_W10_64_VER1510143003_20190401R.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@27@RTK_BT_1.5.1014.3003_RS5.zip",
+						"Version": "1.5.1014.3003",
+						"Title": "ASUS Bluetooth Driver",
+						"Description": "Improve system stability & Support Windows 10  Build 17763",
+						"FileSize": "21.71 MBytes",
+						"ReleaseDate": "2019/01/24",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/02BT/RTK_BT_1.5.1014.3003_RS5.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@27@RealtekBT_1.5.1012.3_RS4.zip",
+						"Version": "1.5.1012.3",
+						"Title": "ASUS Bluetooth Driver",
+						"Description": "Improve system stability & Support Windows 10 latest version.<br/>NOTICE:<br/>Due to the different structure for drivers, suggest you remove the old driver first before install this version driver.",
+						"FileSize": "20.6 MBytes",
+						"ReleaseDate": "2018/07/25",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/02BT/RealtekBT_1.5.1012.3_RS4.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@27@Realtek_BT_RS3_1.5.1004.3.zip",
+						"Version": "1.5.1004.3",
+						"Title": "Realtek Bluetooth driver",
+						"Description": "Improve system stability & Support Windows 10 latest version (Build 16299)",
+						"FileSize": "20.56 MBytes",
+						"ReleaseDate": "2017/12/28",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/02BT/Realtek_BT_RS3_1.5.1004.3.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@27@ASUS_BluetoothDriver_Win10_V148873009_20170830.zip",
+						"Version": "1.4.887.3009",
+						"Title": "ASUS Bluetooth Driver",
+						"Description": "ASUS Bluetooth Driver V1.4.887.3009 for Windows 10 64-bit---(WHQL).",
+						"FileSize": "24.59 MBytes",
+						"ReleaseDate": "2017/08/30",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/02BT/ASUS_BluetoothDriver_Win10_V148873009_20170830.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+							{
+								"hardwareid": "USB\\VID_0B05&PID_185C"
+							}
+						],
+						"INFDate": "05/18/2017"
+					}
+				]
+			},
+			{
+				"Name": "Qualified Vendor List",
+				"Count": 4,
+				"Files": [
+					{
+						"Id": "1@50@11@12@45@34@Z370-I_memQVL20190315.pdf",
+						"Version": "-",
+						"Title": "ROG STRIX Z370-I GAMING_memQVL",
+						"Description": "ROG STRIX Z370-I GAMING_memQVL",
+						"FileSize": "7.09 MBytes",
+						"ReleaseDate": "2019/03/18",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/ROG_STRIX_Z370-I_GAMING/Z370-I_memQVL20190315.pdf",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@34@ROG_STRIX_Z370-I_GAMING_Device_QVL_0823.pdf",
+						"Version": "-",
+						"Title": "ROG_STRIX_Z370-I_GAMING_Device_QVL_0823",
+						"Description": "",
+						"FileSize": "633.59 KBytes",
+						"ReleaseDate": "2018/12/28",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/ROG_STRIX_Z370-I_GAMING/ROG_STRIX_Z370-I_GAMING_Device_QVL_0823.pdf",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@34@Secure_Erase_QVL_List_20180314.pdf",
+						"Version": "-",
+						"Title": "Secure_Erase_QVL_List",
+						"Description": "Secure_Erase_QVL_List_20180314",
+						"FileSize": "59.11 KBytes",
+						"ReleaseDate": "2018/03/16",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/ROG_STRIX_Z370-E_GAMING/Secure_Erase_QVL_List_20180314.pdf",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@34@ROG_STRIX_Z370-I_GAMING_Devices_report_20171019.pdf",
+						"Version": "-",
+						"Title": "ROG_STRIX_Z370-I_GAMING_Devices_report",
+						"Description": "",
+						"FileSize": "387.91 KBytes",
+						"ReleaseDate": "2017/10/19",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/LGA1151/ROG_STRIX_Z370-I_GAMING/ROG_STRIX_Z370-I_GAMING_Devices_report_20171019.pdf",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					}
+				]
+			},
+			{
+				"Name": "Utilities: Armoury Crate",
+				"Count": 2,
+				"Files": [
+					{
+						"Id": "1@50@11@12@45@60@Armoury_Crate_Uninstall_Tool.zip",
+						"Version": "1.0.6.0",
+						"Title": "Armoury Crate Uninstall Tool",
+						"Description": "Use the Uninstall tool to remove Armoury Crate and AURA Creator related components if encounter any issue that need to re-trigger Armoury Crate & AURA Creator Installer to fix.",
+						"FileSize": "446.72 KBytes",
+						"ReleaseDate": "2020/10/28",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/14Utilities/Armoury_Crate_Uninstall_Tool.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					},
+					{
+						"Id": "1@50@11@12@45@60@ArmouryCrateInstallTool.zip",
+						"Version": "-",
+						"Title": "Armoury Crate & AURA Creator Installer",
+						"Description": "Left double-click to run the ArmouryCrateInstallTool.exe file to start the installation process of Armoury Crate - the one-stop device control hub for gaming products, and the AURA Creator - the advanced AURA effect editor.<br/><br/>Please refer to AURA Creator compatible device list for supported models: https://www.asus.com/support/FAQ/1042484",
+						"FileSize": "1.29 MBytes",
+						"ReleaseDate": "2020/10/14",
+						"IsRelease": "1",
+						"PosType": "",
+						"DownloadUrl": {
+							"Global": "https://dlcdnets.asus.com/pub/ASUS/mb/14Utilities/ArmouryCrateInstallTool.zip",
+							"China": ""
+						},
+						"HardwareInfoList": [
+
+						],
+						"INFDate": ""
+					}
+				]
+			}
+		]
+	},
+	"Status": "SUCCESS",
+	"Message": "SUCCESS"
+}
