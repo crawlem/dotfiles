@@ -4,15 +4,6 @@
 office365proplus
 microsoft-teams
 
-# Gaming
-steam
-uplay
-battle.net
-#goggalaxy
-origin
-discord
-pokemon-tcg
-
 # Dev
 vscode
 git
@@ -34,3 +25,12 @@ handbrake
 makemkv
 vlc
 plexmediaserver
+
+# Gaming
+steam
+uplay
+battle.net
+origin
+discord
+pokemon-tcg
+goggalaxy
