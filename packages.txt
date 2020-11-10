@@ -26,6 +26,7 @@ hwmonitor
 7zip
 notepadplusplus
 icue
+geforce-experience
 
 # Media
 itunes
