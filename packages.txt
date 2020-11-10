@@ -14,6 +14,7 @@ discord
 
 # Dev
 vscode
+git
 
 # Utils
 1password
@@ -23,6 +24,7 @@ gpu-z
 hwmonitor
 7zip
 notepadplusplus
+icue
 
 # Media
 itunes
