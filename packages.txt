@@ -2,12 +2,13 @@
 
 # Work
 office365proplus
+microsoft-teams
 
 # Gaming
 steam
 uplay
 battle.net
-goggalaxy
+#goggalaxy
 origin
 discord
 
