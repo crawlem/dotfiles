@@ -7,6 +7,7 @@ Installs [Chocolatey](https://chocolatey.org/) then a set of packages customised
 ### Software
 - Logitech G Hub
 - Rockstar Games
+- Backblaze
 
 ### Games
 Copy CS:GO cfg files in `SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`.
