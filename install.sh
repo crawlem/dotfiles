@@ -17,4 +17,4 @@ sudo apt upgrade
 sudo apt install nodejs npm
 
 # Dotfiles
-ln -sv “~/dotfiles/git/.gitconfig” ~
+ln -sv ~/dotfiles/git/.gitconfig ~
