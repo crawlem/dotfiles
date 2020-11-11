@@ -27,6 +27,7 @@ ln -sv ~/dotfiles/linux/.bashrc ~
 
 # Jekyll
 gem install bundler jekyll
+bundle update --bundler
 
 # Confirm completion
 figlet "... and we're back!" | lolcat
