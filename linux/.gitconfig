@@ -13,3 +13,9 @@
     meta = yellow
     old = red 
     new = green
+[credential]
+	helper = cache --timeout=3600
+[alias]
+    st = status
+    cma = commit -a -m
+    cm = commit -m
