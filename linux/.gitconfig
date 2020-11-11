@@ -1,0 +1,15 @@
+[user]
+	email = mark@crawleyweb.co.uk
+	name = Mark Crawley
+[color]
+    diff = auto
+    status = auto
+    branch = auto
+[color "status"]
+    added = green
+    changed = cyan
+    untracked = red 
+[color "diff"]
+    meta = yellow
+    old = red 
+    new = green

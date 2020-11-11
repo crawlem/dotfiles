@@ -1,5 +1,0 @@
-nodejs 
-npm
-tvnamer
-adoptopenjdk-8-openj9
-adoptopenjdk-11-openj9

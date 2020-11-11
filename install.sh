@@ -16,10 +16,17 @@ sudo apt update
 sudo apt upgrade --yes
 wget -qO - https://adoptopenjdk.jfrog.io/adoptopenjdk/api/gpg/key/public | sudo apt-key add -
 sudo add-apt-repository --yes https://adoptopenjdk.jfrog.io/adoptopenjdk/deb/
-sudo apt install --yes $(awk '{print $1'} linux.txt)
+sudo apt install --yes $(awk '{print $1'} linux/apps.txt)
+sudo apt autoremove
 
 # Dotfiles
-if [[ ! -f ~/.gitconfig ]]
-then
-    ln -sv ~/dotfiles/git/.gitconfig ~
-fi
+rm ~/.gitconfig
+ln -sv ~/dotfiles/git/.gitconfig ~
+rm ~/.bashrc
+ln -sv ~/dotfiles/runcom/.bashrc ~
+
+# Jekyll
+gem install bundler jekyll
+
+# Confirm completion
+figlet "... and we're back!" | lolcat
