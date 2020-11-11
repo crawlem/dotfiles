@@ -12,6 +12,8 @@ Then install Ubuntu WSL from the Microsoft Store, and run `install.sh` as a user
 - Logitech G Hub
 - Rockstar Games
 - Backblaze
+- Microsoft Whiteboard
+- Minecraft
 
 ### Games
 Copy CS:GO cfg files in `SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`. Edit the Steam launch options `-noborder -fullscreen -novid +exec mark`
