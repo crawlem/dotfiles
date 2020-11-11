@@ -8,6 +8,8 @@ Installs [Chocolatey](https://chocolatey.org/) then a set of packages customised
 - Logitech G Hub
 - Rockstar Games
 - Backblaze
+- Microsoft Whiteboard
+- Minecraft
 
 ### Games
 Copy CS:GO cfg files in `SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`.
