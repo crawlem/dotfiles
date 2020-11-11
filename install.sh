@@ -21,9 +21,9 @@ sudo apt autoremove
 
 # Dotfiles
 rm ~/.gitconfig
-ln -sv ~/dotfiles/git/.gitconfig ~
+ln -sv ~/dotfiles/linux/.gitconfig ~
 rm ~/.bashrc
-ln -sv ~/dotfiles/runcom/.bashrc ~
+ln -sv ~/dotfiles/linux/.bashrc ~
 
 # Jekyll
 gem install bundler jekyll
