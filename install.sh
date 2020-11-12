@@ -27,6 +27,9 @@ rm ~/.bashrc
 ln -sv ~/dotfiles/linux/.bashrc ~
 . ~/.bashrc
 
+rm ~/.tvnamer
+ln -sv ~/dotfiles/linux/.tvnamer.json ~
+
 # Jekyll
 gem install bundler jekyll
 bundle update --bundler
