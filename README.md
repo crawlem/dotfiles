@@ -11,7 +11,7 @@ Then install Ubuntu WSL from the Microsoft Store, and run `install.sh` as a user
 ### Software
 - Logitech G Hub
 - Rockstar Games
-- Backblaze
+- [Backblaze](https://help.backblaze.com/hc/en-us/articles/217666358-Transfer-Backup-State?_ga=2.42309538.627218732.1605173523-2125565141.1605173523)
 - Microsoft Whiteboard
 - Minecraft
 
