@@ -34,5 +34,8 @@ ln -sv ~/dotfiles/linux/.tvnamer.json ~
 gem install bundler jekyll
 bundle update --bundler
 
+# Vue.js
+sudo npm install -g @vue/cli vue
+
 # Confirm completion
 figlet "... and we're back!" | lolcat
