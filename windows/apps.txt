@@ -18,6 +18,7 @@ hwmonitor
 notepadplusplus
 icue
 geforce-experience
+whatsapp
 
 # Media
 itunes
