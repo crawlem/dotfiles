@@ -17,5 +17,6 @@
 	helper = cache --timeout=3600
 [alias]
     st = status
+    cl = clone
     cma = commit -a -m
     cm = commit -m
