@@ -30,6 +30,8 @@ ln -sv ~/dotfiles/linux/.bashrc ~
 rm ~/.tvnamer
 ln -sv ~/dotfiles/linux/.tvnamer.json ~
 
+ln -sv ~/dotfiles/linux/.ssh/config ~/.ssh
+
 # Jekyll
 gem install bundler jekyll
 bundle update --bundler
