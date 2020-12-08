@@ -26,6 +26,7 @@ handbrake
 makemkv
 vlc
 plexmediaserver
+icloud
 
 # Gaming
 steam
