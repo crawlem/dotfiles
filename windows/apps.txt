@@ -19,6 +19,7 @@ notepadplusplus
 icue
 geforce-experience
 whatsapp
+postman
 
 # Media
 itunes
