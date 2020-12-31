@@ -21,6 +21,7 @@ geforce-experience
 whatsapp
 postman
 filezilla
+inkscape
 
 # Media
 itunes
