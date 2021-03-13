@@ -31,6 +31,7 @@ makemkv
 vlc
 plexmediaserver
 icloud
+mp3tag
 
 # Gaming
 steam
