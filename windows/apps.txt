@@ -32,6 +32,7 @@ vlc
 plexmediaserver
 icloud
 mp3tag
+audacity
 
 # Gaming
 steam
