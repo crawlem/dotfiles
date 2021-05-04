@@ -37,7 +37,7 @@ audacity
 
 # Gaming
 steam
-uplay
+ubisoft-connect
 battle.net
 origin
 discord
