@@ -8,6 +8,7 @@ microsoft-teams
 vscode
 git
 ghidra
+postman
 
 # Utils
 1password
@@ -20,10 +21,10 @@ notepadplusplus
 icue
 geforce-experience
 whatsapp
-postman
 filezilla
 inkscape
 gimp
+wireshark
 
 # Media
 itunes
