@@ -1,1 +1,8 @@
 visual-studio-code
+microsoft-office
+postman
+gimp
+inkscape
+whatsapp
+1password
+dropbox
