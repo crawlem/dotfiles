@@ -1,0 +1,7 @@
+node
+tvnamer
+lolcat
+figlet
+ruby
+openjdk@11
+openjdk@8
