@@ -4,7 +4,7 @@
 # macOS install script
 # -------------------------
 #
-:q
+
 # Default SSH key
 if [[ ! -f ~/.ssh/id_ed25519 ]]
 then
@@ -43,6 +43,8 @@ bundle update --bundler
 
 # Vue.js
 npm install -g @vue/cli vue
+
+source macos/defaults.sh
 
 # Confirm completion
 figlet "... and we're back!" | lolcat
