@@ -25,6 +25,8 @@ filezilla
 inkscape
 gimp
 wireshark
+misafterburner
+3dmark
 
 # Media
 itunes
