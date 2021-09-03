@@ -27,6 +27,7 @@ gimp
 wireshark
 misafterburner
 3dmark
+heaven-benchmark
 
 # Media
 itunes
