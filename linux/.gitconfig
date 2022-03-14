@@ -22,3 +22,5 @@
     cm = commit -m
 [init]
 	defaultBranch = main
+[core]
+	editor = vim
