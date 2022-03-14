@@ -9,6 +9,7 @@ vscode
 git
 ghidra
 postman
+winmerge
 
 # Utils
 1password
