@@ -20,3 +20,5 @@
     cl = clone
     cma = commit -a -m
     cm = commit -m
+[init]
+	defaultBranch = main
