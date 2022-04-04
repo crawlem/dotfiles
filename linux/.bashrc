@@ -116,10 +116,6 @@ if ! shopt -oq posix; then
   fi
 fi
 
-# Install Ruby Gems to ~/gems
-export GEM_HOME="$HOME/gems"
-export PATH="$HOME/gems/bin:$PATH"
-
 # Console colours
 LS_COLORS=$LS_COLORS:'di=0;36'; export LS_COLORS
 PS1='\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;36m\]\w\[\033[00m\]\$ '
