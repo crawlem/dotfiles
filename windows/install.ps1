@@ -12,7 +12,7 @@ param(
 # Default profile
 if ($profile -eq "") {
   # Install packages
-  foreach ($item in Get-Content $PSScriptRoot\windows\apps.txt | ConvertFrom-CSV -Header "Package") {
+  foreach ($item in Get-Content $PSScriptRoot\apps.txt | ConvertFrom-CSV -Header "Package") {
     winget install $item.Package --silent --accept-package-agreements
   }
 
@@ -23,7 +23,7 @@ if ($profile -eq "") {
 # Dev profile
 if ($profile -eq "dev") {
   # Install packages
-  foreach ($item in Get-Content $PSScriptRoot\windows\apps-dev.txt | ConvertFrom-CSV -Header "Package") {
+  foreach ($item in Get-Content $PSScriptRoot\apps-dev.txt | ConvertFrom-CSV -Header "Package") {
     winget install $item.Package --silent --accept-package-agreements
   }
 
@@ -36,7 +36,7 @@ if ($profile -eq "dev") {
 # Work profile
 if ($profile -eq "work") {
   # Install packages
-  foreach ($item in Get-Content $PSScriptRoot\windows\apps-work.txt | ConvertFrom-CSV -Header "Package") {
+  foreach ($item in Get-Content $PSScriptRoot\apps-work.txt | ConvertFrom-CSV -Header "Package") {
     winget install $item.Package --silent --accept-package-agreements
   }
 }
