@@ -12,7 +12,7 @@ param(
 # Default profile
 if ($profile -eq "") {
   # Install packages
-  foreach ($item in Get-Content windows\apps.txt | ConvertFrom-CSV -Header "Package") {
+  foreach ($item in Get-Content $PSScriptRoot\windows\apps.txt | ConvertFrom-CSV -Header "Package") {
     winget install $item.Package --silent --accept-package-agreements
   }
 
@@ -23,7 +23,7 @@ if ($profile -eq "") {
 # Dev profile
 if ($profile -eq "dev") {
   # Install packages
-  foreach ($item in Get-Content windows\apps-dev.txt | ConvertFrom-CSV -Header "Package") {
+  foreach ($item in Get-Content $PSScriptRoot\windows\apps-dev.txt | ConvertFrom-CSV -Header "Package") {
     winget install $item.Package --silent --accept-package-agreements
   }
 
@@ -31,17 +31,12 @@ if ($profile -eq "dev") {
   dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
   dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
   wsl --set-default-version 2
-
-  # Install VisualStudio Code Extensions
-  foreach ($item in Get-Content common\vscode.txt | ConvertFrom-CSV -Header "Package") {
-    code --install-extension $item.Package
-  }
 }
 
 # Work profile
 if ($profile -eq "work") {
   # Install packages
-  foreach ($item in Get-Content windows\apps-work.txt | ConvertFrom-CSV -Header "Package") {
+  foreach ($item in Get-Content $PSScriptRoot\windows\apps-work.txt | ConvertFrom-CSV -Header "Package") {
     winget install $item.Package --silent --accept-package-agreements
   }
 }
