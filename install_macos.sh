@@ -21,7 +21,7 @@ brew tap homebrew/cask
 brew install --cask $(awk '{print $1'} macos/cask.txt)
 
 # VS Code extensions
-code --install-extension $(awk '{print $1'} windows/vscode.txt)
+code --install-extension $(awk '{print $1'} common/vscode.txt)
 
 # Dotfiles
 rm ~/.gitconfig

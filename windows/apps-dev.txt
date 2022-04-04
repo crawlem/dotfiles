@@ -1,0 +1,18 @@
+# Utils
+AgileBits.1Password
+7zip.7zip
+Microsoft.WindowsTerminal
+TimKosse.FileZilla.Client
+WiresharkFoundation.Wireshark
+Postman.Postman
+WinMerge.WinMerge
+Notepad++.Notepad++
+
+# Images
+Inkscape.Inkscape
+GIMP.GIMP
+
+# Code
+Microsoft.VisualStudioCode
+Git.Git
+OpenJS.NodeJS.LTS

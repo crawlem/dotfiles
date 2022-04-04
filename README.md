@@ -1,28 +1,34 @@
 # dotfiles
 
-Configures a clean macOS and/or Windows and Linux (WSL) install to my liking. Uses [Chocolatey](https://chocolatey.org/) as a Windows package manager. 
+Configures a clean macOS and/or Windows and/or WSL install to my liking. 
 
-## Windows
+## Windows - gaming (default)
 
-Run `install_linux.bat` in an admin command prompt in Windows 10.
+Open a *normal* command prompt and run:
+- `cd Desktop`
+- `winget install Git.Git`
+- `git clone https://github.com/crawlem/dotfiles.git`
 
-Then install Ubuntu WSL from the Microsoft Store, and run `install.sh` as a user (not root).
+Open a *PowerShell administrator* command prompt and run:
+- `cd c:\Users\User\Desktop\dotfiles`
+- `install.bat`
 
-### Stuff that isn't covered
+### CSGO config
 
-#### Software
-- Logitech G Hub
-- Rockstar Games
-- [Backblaze](https://help.backblaze.com/hc/en-us/articles/217666358-Transfer-Backup-State?_ga=2.42309538.627218732.1605173523-2125565141.1605173523)
-- Microsoft Whiteboard
-- Minecraft
+- Install CSGO using Steam
+- Copy CS:GO cfg files in `SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`
+- Edit the Steam launch options `-noborder -fullscreen -novid +exec mark`
 
-#### Games
-Copy CS:GO cfg files in `SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`. Edit the Steam launch options `-noborder -fullscreen -novid +exec mark`
+## Windows - dev
 
-#### Plex
-See https://support.plex.tv/articles/201370363-move-an-install-to-another-system/
+Run `install.bat dev` from a *PowerShell administrator* command prompt.
 
-# macOS
+Then install Ubuntu WSL from the Microsoft Store, open a terminal and run `install_linux.sh` as a user (not root).
 
-Run `install_macos.bat` from the command prompt.
+## Windows - work
+
+Run `install.bat work` from a *PowerShell administrator* command prompt.
+
+## macOS
+
+Run `install_macos.sh`.

@@ -1,51 +1,26 @@
-# Packages found in Chocolately repo https://chocolatey.org/packages
-
-# Work
-office365proplus
-microsoft-teams
-
-# Dev
-vscode
-git
-ghidra
-postman
-winmerge
-
 # Utils
-1password
-dropbox
-cpu-z
-gpu-z
-hwmonitor
-7zip
-notepadplusplus
-icue
-geforce-experience
-whatsapp
-filezilla
-inkscape
-gimp
-wireshark
-misafterburner
-3dmark
-heaven-benchmark
+AgileBits.1Password
+7zip.7zip
+Microsoft.WindowsTerminal
+
+# Hardware
+Corsair.iCUE.4
+Nvidia.GeForceExperience
+
+# Comms
+WhatsApp.WhatsApp
+Discord.Discord
 
 # Media
-itunes
-handbrake
-makemkv
-vlc
-plexmediaserver
-icloud
-mp3tag
-audacity
+Apple.iTunes
+HandBrake.HandBrake
+GuinpinSoft.MakeMKV
+VideoLAN.VLC
+#icloud
 
 # Gaming
-steam
-ubisoft-connect
-battle.net
-origin
-discord
-pokemon-tcg
-#goggalaxy
-#Rockstar games (manual)
+Valve.Steam
+Ubisoft.Connect
+#battle.net
+#origin
+#Rockstar games
