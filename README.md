@@ -19,6 +19,10 @@ Then choose a profile:
 
 The `dev` profile requires an Ubuntu WSL environment to be installed. Once it is, run `install_linux.sh` from the WSL command prompt.
 
+If you are running WSL in a Hyper-V virtual machine, virtualisation extensions are required. Run the below command on the host PC as Administrator while the guest VM is shut down:
+
+`Set-VMProcessor -VMName <name of VM> -ExposeVirtualizationExtensions $true`
+
 ### CSGO config
 
 - Install CSGO using Steam
