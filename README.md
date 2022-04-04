@@ -11,7 +11,7 @@ To download this project, open a *normal* command prompt and run:
 - `cd dotfiles`
 
 Then choose a profile:
-- `.\install.bat` default gaming PC
+- `.\install.bat gaming` default gaming PC
 - `.\install.bat dev` software development environment
 - `.\install.bat work` work environment
 
