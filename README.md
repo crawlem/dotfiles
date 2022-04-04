@@ -7,6 +7,8 @@ Configures a clean macOS and/or Windows and/or WSL install to my liking.
 To download this project, open a *normal* command prompt and run:
 - `cd Desktop`
 - `winget install Git.Git`
+- Close and open a new command prompt
+- `cd Desktop`
 - `git clone https://github.com/crawlem/dotfiles.git`
 - `cd dotfiles`
 
