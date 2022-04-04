@@ -1,5 +1,4 @@
 visual-studio-code
-microsoft-office
 postman
 gimp
 inkscape
