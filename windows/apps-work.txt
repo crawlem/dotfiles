@@ -1,7 +1,4 @@
 # Utils
-AgileBits.1Password
-7zip.7zip
-Microsoft.WindowsTerminal
 Adobe.Acrobat.Reader.64-bit
 
 # Office

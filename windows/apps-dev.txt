@@ -1,7 +1,4 @@
 # Utils
-AgileBits.1Password
-7zip.7zip
-Microsoft.WindowsTerminal
 TimKosse.FileZilla.Client
 WiresharkFoundation.Wireshark
 Postman.Postman

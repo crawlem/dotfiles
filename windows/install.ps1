@@ -1,12 +1,17 @@
 param(
     [Parameter()]
-    [String]$profile = ""
+    [String]$profile = "gaming"
 )
 
+# Install global packages
+foreach ($item in Get-Content $PSScriptRoot\apps.txt | ConvertFrom-CSV -Header "Package") {
+  winget install $item.Package --silent --accept-package-agreements
+}
+
 # Default profile
-if ($profile -eq "") {
+if ($profile -eq "gaming") {
   # Install packages
-  foreach ($item in Get-Content $PSScriptRoot\apps.txt | ConvertFrom-CSV -Header "Package") {
+  foreach ($item in Get-Content $PSScriptRoot\apps-gaming.txt | ConvertFrom-CSV -Header "Package") {
     winget install $item.Package --silent --accept-package-agreements
   }
 

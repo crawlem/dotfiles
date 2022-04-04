@@ -1,0 +1,21 @@
+# Hardware
+Corsair.iCUE.4
+Nvidia.GeForceExperience
+
+# Comms
+WhatsApp.WhatsApp
+Discord.Discord
+
+# Media
+Apple.iTunes
+HandBrake.HandBrake
+GuinpinSoft.MakeMKV
+VideoLAN.VLC
+#icloud
+
+# Gaming
+Valve.Steam
+Ubisoft.Connect
+#battle.net
+#origin
+#Rockstar games
