@@ -10,3 +10,8 @@ if ($profile -eq "dev") {
     code --install-extension $item.Package
   }
 }
+
+# Install fonts
+$fonts = (New-Object -ComObject Shell.Application).Namespace(0x14)
+Get-ChildItem -Recurse -include "*.ttf" | % { $fonts.CopyHere($_.fullname) }
+Get-ChildItem -Recurse -include "*.otf" | % { $fonts.CopyHere($_.fullname) }

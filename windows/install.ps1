@@ -35,11 +35,6 @@ if ($profile -eq "work") {
   }
 }
 
-# TODO Install fonts
-# $fonts = (New-Object -ComObject Shell.Application).Namespace(0x14)
-# Get-ChildItem -Recurse -include "common\*.ttf" | % { $fonts.CopyHere($_.fullname) }
-# Get-ChildItem -Recurse -include "common\*.otf" | % { $fonts.CopyHere($_.fullname) }
-
 # TODO Make Windows Terminal the default
 
 # TODO Customise taskbar settings
