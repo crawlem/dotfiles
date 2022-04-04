@@ -1,9 +1,3 @@
-# Windows install PowerShell script
-#
-# Before running this script run the below:
-#   Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
-#
-
 param(
     [Parameter()]
     [String]$profile = ""
