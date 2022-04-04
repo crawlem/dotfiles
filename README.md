@@ -2,7 +2,7 @@
 
 Configures a clean macOS and/or Windows and/or WSL install to my liking. 
 
-## Windows - gaming (default)
+## Windows
 
 To download this project, open a *normal* command prompt and run:
 - `cd Desktop`
@@ -23,7 +23,7 @@ If you are running WSL in a Hyper-V virtual machine, virtualisation extensions a
 
 `Set-VMProcessor -VMName <name of VM> -ExposeVirtualizationExtensions $true`
 
-### CSGO config
+### Gaming profile
 
 - Install CSGO using Steam
 - Copy CS:GO cfg files in `SteamLibrary\steamapps\common\Counter-Strike Global Offensive\csgo\cfg`
