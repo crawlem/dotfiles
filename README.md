@@ -17,11 +17,13 @@ Then choose a profile:
 
 ### Dev profile
 
-The `dev` profile requires an Ubuntu WSL environment to be installed. Once it is, run `install_linux.sh` from the WSL command prompt.
+The `dev` profile requires an Ubuntu WSL environment to be installed. This can be done from the Windows Store.
 
-If you are running WSL in a Hyper-V virtual machine, virtualisation extensions are required. Run the below command on the host PC as Administrator while the guest VM is shut down:
+Once Ubuntu is installed, open a terminal to it and run `install_linux.sh`.
 
-`Set-VMProcessor -VMName <name of VM> -ExposeVirtualizationExtensions $true`
+#### Running on Hyper-V
+
+If you are running WSL in a Hyper-V virtual machine, virtualisation extensions are required. Run `Set-VMProcessor -VMName <name of VM> -ExposeVirtualizationExtensions $true` on the host PC as Administrator while the guest VM is shut down.
 
 ### Gaming profile
 
