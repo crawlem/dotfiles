@@ -11,7 +11,7 @@ Apple.iTunes
 HandBrake.HandBrake
 GuinpinSoft.MakeMKV
 VideoLAN.VLC
-#icloud
+calibre.calibre
 
 # Gaming
 Valve.Steam
