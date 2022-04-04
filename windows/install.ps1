@@ -34,7 +34,3 @@ if ($profile -eq "work") {
     winget install $item.Package --silent --accept-package-agreements
   }
 }
-
-# TODO Make Windows Terminal the default
-
-# TODO Customise taskbar settings
