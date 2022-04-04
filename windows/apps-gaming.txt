@@ -1,6 +1,7 @@
 # Hardware
 Corsair.iCUE.4
 Nvidia.GeForceExperience
+Logitech.GHUB
 
 # Comms
 WhatsApp.WhatsApp
