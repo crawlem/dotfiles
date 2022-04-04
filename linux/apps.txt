@@ -1,6 +1,7 @@
 tvnamer
-figlet lolcat
-nodejs npm
-adoptopenjdk-8-openj9 adoptopenjdk-11-openj9
-ruby-full ruby-devel build-essential zlib1g-dev libz-dev
-sqlite
+figlet
+lolcat
+nodejs
+npm
+adoptopenjdk-8-openj9
+adoptopenjdk-11-openj9
