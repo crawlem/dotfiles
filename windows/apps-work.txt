@@ -3,6 +3,7 @@ Adobe.Acrobat.Reader.64-bit
 
 # Office
 Microsoft.Office
+Microsoft.Teams
 
 # Tech
 Microsoft.AzureCLI
