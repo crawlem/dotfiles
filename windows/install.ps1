@@ -3,6 +3,12 @@ param(
     [String]$profile = "gaming"
 )
 
+# Set region to UK
+Import-Module International
+Set-WinSystemLocale en-GB
+Set-WinHomeLocation -GeoId 0xF2
+Set-Culture en-GB
+
 # Install common packages
 foreach ($item in Get-Content $PSScriptRoot\apps.txt | ConvertFrom-CSV -Header "Package") {
   winget install $item.Package --silent --accept-package-agreements
