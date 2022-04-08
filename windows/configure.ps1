@@ -3,9 +3,23 @@ param(
     [String]$profile = ""
 )
 
+Write-Host "Setting up profile:" $profile -ForegroundColor "Red"
+
+# Gaming profile
+if ($profile -eq "gaming") {
+  # Glow theme
+  Write-Host "Setting Windows theme" -ForegroundColor "Green"
+  Start-Process -FilePath "C:\Windows\Resources\Themes\themeA.theme"
+}
+
 # Dev profile
 if ($profile -eq "dev") {
+  # Dark mode
+  Write-Host "Setting Windows theme" -ForegroundColor "Green"
+  Start-Process -FilePath "C:\Windows\Resources\Themes\dark.theme"
+
   # Configure Git
+  Write-Host "Configuring git & SSH" -ForegroundColor "Green"
   git config --global user.name "Mark Crawley"
   git config --global user.email "mark@crawleyweb.co.uk"
 
