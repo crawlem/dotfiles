@@ -2,6 +2,7 @@
 Corsair.iCUE.4
 Nvidia.GeForceExperience
 Logitech.GHUB
+CPUID.CPU-Z.ROG
 
 # Comms
 WhatsApp.WhatsApp
