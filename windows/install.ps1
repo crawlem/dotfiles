@@ -3,12 +3,12 @@ param(
     [String]$profile = "gaming"
 )
 
-# Install global packages
+# Install common packages
 foreach ($item in Get-Content $PSScriptRoot\apps.txt | ConvertFrom-CSV -Header "Package") {
   winget install $item.Package --silent --accept-package-agreements
 }
 
-# Default profile
+# Gaming profile
 if ($profile -eq "gaming") {
   # Install packages
   foreach ($item in Get-Content $PSScriptRoot\apps-gaming.txt | ConvertFrom-CSV -Header "Package") {
@@ -30,6 +30,8 @@ if ($profile -eq "dev") {
   dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
   dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
   wsl --set-default-version 2
+
+  # TODO Install Ubuntu WSL?
 }
 
 # Work profile

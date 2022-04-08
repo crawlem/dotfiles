@@ -18,13 +18,13 @@ Then choose a profile:
 
 ### Dev profile
 
-The `dev` profile requires an Ubuntu WSL environment to be installed. This can be done from the Windows Store.
-
-Once Ubuntu is installed, open a terminal to it and run `install_linux.sh`.
+The `dev` profile requires an Ubuntu WSL environment to be installed. This can be done from the Windows Store. Once installed, open a terminal to it and run `install_linux.sh`.
 
 #### Running on Hyper-V
 
 If you are running WSL in a Hyper-V virtual machine, virtualisation extensions are required. Run `Set-VMProcessor -VMName <name of VM> -ExposeVirtualizationExtensions $true` on the host PC as Administrator while the guest VM is shut down.
+
+Enabling 1Password SSH Agent in a Hyper-V guest requires Windows Hello to be setup in the VM. To do this the connection need to have "Enhanced session" disabled on the View menu.
 
 ### Gaming profile
 
