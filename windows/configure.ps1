@@ -53,4 +53,8 @@ Set-ItemProperty -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer
 Set-ItemProperty -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced' -Name TaskbarDa -Value 0
 Set-ItemProperty -Path 'HKCU:\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced' -Name TaskbarMn -Value 0
 
+# Force UK language
+Set-WinSystemLocale en-GB
+Set-WinUserLanguageList en-GB -Force
+
 # TODO Make Windows Terminal the default terminal
