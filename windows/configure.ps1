@@ -27,7 +27,7 @@ if ($profile -eq "dev") {
   git config --global core.sshCommand "C:\\Windows\\System32\\OpenSSH\\ssh.exe"
 
   # Configure SSH
-  copy $PSScriptRoot\..\.ssh $HOME
+  copy $PSScriptRoot\.ssh $HOME
   
   # Install VS Code extensions
   Write-Host "Installing VSCode extensions:" -ForegroundColor "Green"
