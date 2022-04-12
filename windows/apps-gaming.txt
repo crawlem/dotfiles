@@ -21,3 +21,6 @@ Ubisoft.Connect
 #battle.net
 #origin
 #Rockstar games
+
+# Utils
+Balena.Etcher
