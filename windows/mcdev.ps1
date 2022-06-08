@@ -7,7 +7,7 @@ $VHDPath = "C:\Users\Public\Documents\Hyper-V\Virtual hard disks"
 $ISOPath = "C:\Users\crawl\Downloads\Win11_EnglishInternational_x64v1.iso"
 
 # Create the basic VM and settings
-New-VM -Name $VMName -MemoryStartupBytes 4GB -NewVHDPath "$VHDPath\$VMName.vhdx" -NewVHDSizeBytes 25GB -Generation 2 -SwitchName "Default Switch"
+New-VM -Name $VMName -MemoryStartupBytes 4GB -NewVHDPath "$VHDPath\$VMName.vhdx" -NewVHDSizeBytes 35GB -Generation 2 -SwitchName "Default Switch"
 Set-VM -Name $VMName -AutomaticCheckpointsEnabled $False -AutomaticCriticalErrorAction Pause -AutomaticStartAction Nothing -AutomaticStopAction TurnOff -CheckpointType Disabled -DynamicMemory -MemoryMinimumBytes 4GB -MemoryMaximumBytes 8GB -Notes "Mark's development environment" -ProcessorCount 2
 
 # Setup TPM (needed for Windows Hello)
