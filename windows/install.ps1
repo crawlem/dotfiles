@@ -39,10 +39,10 @@ if ($profile -eq "dev") {
   # TODO Install Ubuntu WSL?
 
   # Create new local user account for me
-  $Username = Read-Host -AsSecureString
-  $Password = Read-Host -AsSecureString
-  New-LocalUser $Username -Password $Password -FullName "Mark" -Description "Mark's account"
-  Add-LocalGroupMember -Group "Administrators" -Member $Username
+  #$Username = Read-Host -AsSecureString
+  #$Password = Read-Host -AsSecureString
+  #New-LocalUser $Username -Password $Password -FullName "Mark" -Description "Mark's account"
+  #Add-LocalGroupMember -Group "Administrators" -Member $Username
 }
 
 # Work profile
