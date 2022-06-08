@@ -10,6 +10,6 @@ Inkscape.Inkscape
 GIMP.GIMP
 
 # Code
-Microsoft.VisualStudioCode
+# Microsoft.VisualStudioCode --- this is covered by configure script
 Git.Git
 OpenJS.NodeJS.LTS
