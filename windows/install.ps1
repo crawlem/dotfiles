@@ -20,6 +20,8 @@ if ($profile -eq "gaming") {
   # Enable Hyper-V
   Write-Host "Enabling Hyper-V" -ForegroundColor "Green"
   Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V-All
+  
+  .\mcdev.ps1
 }
 
 # Dev profile
