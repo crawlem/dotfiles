@@ -21,6 +21,8 @@ Ubisoft.Connect
 #battle.net
 #origin
 #Rockstar games
+#op auto clicker
+#minecraft launcher
 
 # Utils
 Balena.Etcher
