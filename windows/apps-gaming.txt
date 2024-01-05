@@ -22,7 +22,7 @@ Ubisoft.Connect
 #origin
 #Rockstar games
 #op auto clicker
-#minecraft launcher
+Mojang.MinecraftLauncher
 
 # Utils
 Balena.Etcher
