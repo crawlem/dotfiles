@@ -5,7 +5,7 @@ Logitech.GHUB
 CPUID.CPU-Z.ROG
 
 # Comms
-WhatsApp.WhatsApp
+#WhatsApp.WhatsApp
 Discord.Discord
 
 # Media
