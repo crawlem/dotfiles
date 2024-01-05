@@ -31,10 +31,10 @@ if ($profile -eq "dev") {
   
   # Install VS Code extensions
   winget install microsoft.visualstudiocode --silent --accept-source-agreements --accept-package-agreements
-  Write-Host "Installing VSCode extensions:" -ForegroundColor "Green"
-  foreach ($item in Get-Content $PSScriptRoot\..\common\vscode.txt | ConvertFrom-CSV -Header "Package") {
-    code --install-extension $item.Package
-  }
+  #Write-Host "Installing VSCode extensions:" -ForegroundColor "Green"
+  #foreach ($item in Get-Content $PSScriptRoot\..\common\vscode.txt | ConvertFrom-CSV -Header "Package") {
+    #code --install-extension $item.Package
+  #}
 
   # TODO Configure custom font for VSCode (OperatorMonoLig)
 
