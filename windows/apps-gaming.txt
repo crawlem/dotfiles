@@ -21,7 +21,7 @@ Ubisoft.Connect
 #battle.net
 #origin
 #Rockstar games
-#op auto clicker
+OPAutoClicker.OPAutoClicker
 #Mojang.MinecraftLauncher
 
 # Utils
